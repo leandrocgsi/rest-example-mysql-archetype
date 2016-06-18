@@ -43,6 +43,6 @@ As on image bellow type your Root Directory (where we found your code) and click
 
 ![Importing2](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/10-Importing.png?raw=true)
 
-#Video Aula em Português explicando passo a passo (Only Portuguese)
+#[Série de Video Aulas em Português explicando passo a passo](https://www.youtube.com/playlist?list=PL18bbNo7xuh-uIfKSuwAUaG4PWw832YVx) (Only Portuguese)
 
 [![Criando Seu Próprio Archetype Maven](http://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Criando Seu Próprio Archetype Maven")
