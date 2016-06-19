@@ -1,0 +1,1 @@
+# rest-example-mysql-archetype
