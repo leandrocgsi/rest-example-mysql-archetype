@@ -42,3 +42,7 @@ Now we just import our project in favorite IDE (Eclipse in this example). Go to 
 As on image bellow type your Root Directory (where we found your code) and click in Browse >> Finish.
 
 ![Importing2](https://github.com/leandrocgsi/erudio-rest-api-archetype/blob/master/img/10-Importing.png?raw=true)
+
+#Video Aula em Português explicando passo a passo (Only Portuguese)
+
+[![Everything Is AWESOME](http://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
