@@ -45,4 +45,4 @@ As on image bellow type your Root Directory (where we found your code) and click
 
 #Video Aula em Português explicando passo a passo (Only Portuguese)
 
-[![Everything Is AWESOME](http://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Criando Seu Próprio Archetype Maven](http://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Criando Seu Próprio Archetype Maven")
