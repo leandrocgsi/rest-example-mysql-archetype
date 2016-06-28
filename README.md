@@ -51,17 +51,21 @@ As on image bellow type your Root Directory (where we found your code) and click
 [![01 Montando Um Archetype Maven](http://img.youtube.com/vi/wzdkHpMpkQE/0.jpg)](https://www.youtube.com/watch?v=wzdkHpMpkQE-Y "01 Montando Um Archetype Maven")
 
 02 Montando Um Archetype Maven COMPACTO
+-----------------------------
 
 [![02 Montando Um Archetype Maven COMPACTO](http://img.youtube.com/vi/aBHtHx6MI6c/0.jpg)](https://www.youtube.com/watch?v=aBHtHx6MI6c-Y "02 Montando Um Archetype Maven COMPACTO")
 
 03 Montando Um Archetype Maven DETALHADO Parte 1
+-----------------------------
 
 [![03 Montando Um Archetype Maven DETALHADO Parte 1](http://img.youtube.com/vi/qpK8s_O_fwY/0.jpg)](https://www.youtube.com/watch?v=qpK8s_O_fwY-Y "01 Montando Um Archetype Maven DETALHADO Parte 1")
 
 04 Montando Um Archetype Maven DETALHADO Parte 2
+-----------------------------
 
 [![04 Montando Um Archetype Maven DETALHADO Parte 2](http://img.youtube.com/vi/auZCBhNQQrc/0.jpg)](https://www.youtube.com/watch?v=auZCBhNQQrc-Y "02 Montando Um Archetype Maven DETALHADO Parte 2")
 
 05 Montando Um Archetype Maven DETALHADO Parte 3
+-----------------------------
 
 [![05 Montando Um Archetype Maven DETALHADO Parte 3](http://img.youtube.com/vi/VG2f4NDRev0/0.jpg)](https://www.youtube.com/watch?v=VG2f4NDRev0-Y "03 Montando Um Archetype Maven DETALHADO Parte 3")
