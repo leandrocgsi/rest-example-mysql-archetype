@@ -46,7 +46,7 @@ As on image bellow type your Root Directory (where we found your code) and click
 #[Série de Video Aulas em Português explicando passo a passo](https://www.youtube.com/playlist?list=PL18bbNo7xuh-uIfKSuwAUaG4PWw832YVx) (Only Portuguese)
 
 [![01 Montando Um Archetype Maven](http://img.youtube.com/vi/wzdkHpMpkQE/0.jpg)](https://www.youtube.com/watch?v=wzdkHpMpkQE-Y "01 Montando Um Archetype Maven")
-[![02 Montando Um Archetype Maven COMPACTO](http://img.youtube.com/vi/wzdkHpMpkQE/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "02 Montando Um Archetype Maven COMPACTO")
-[![03 Montando Um Archetype Maven DETALHADO Parte 1](http://img.youtube.com/vi/wzdkHpMpkQE/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "01 Montando Um Archetype Maven DETALHADO Parte 1")
-[![04 Montando Um Archetype Maven DETALHADO Parte 2](http://img.youtube.com/vi/wzdkHpMpkQE/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "02 Montando Um Archetype Maven DETALHADO Parte 2")
+[![02 Montando Um Archetype Maven COMPACTO](http://img.youtube.com/vi/aBHtHx6MI6c/0.jpg)](https://www.youtube.com/watch?v=aBHtHx6MI6c-Y "02 Montando Um Archetype Maven COMPACTO")
+[![03 Montando Um Archetype Maven DETALHADO Parte 1](http://img.youtube.com/vi/qpK8s_O_fwY/0.jpg)](https://www.youtube.com/watch?v=qpK8s_O_fwY-Y "01 Montando Um Archetype Maven DETALHADO Parte 1")
+[![04 Montando Um Archetype Maven DETALHADO Parte 2](http://img.youtube.com/vi/auZCBhNQQrc/0.jpg)](https://www.youtube.com/watch?v=auZCBhNQQrc-Y "02 Montando Um Archetype Maven DETALHADO Parte 2")
 [![05 Montando Um Archetype Maven DETALHADO Parte 3](http://img.youtube.com/vi/wzdkHpMpkQE/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "03 Montando Um Archetype Maven DETALHADO Parte 3")
