@@ -22,14 +22,14 @@ It's can be should look like the image below.
 Now go to the directory where you want to create your project and run the command below.
 
 ```
-mvn archetype:generate 
-    -DarchetypeGroupId=br.com.erudio
-    -DarchetypeArtifactId=rest-example-mysql-archetype
-    -DarchetypeVersion=0.0.1-SNAPSHOT
-    -DgroupId=br.com.semeru
-    -DartifactId=rest-mysql-from-archetype
-    -Dversion=1.0-SNAPSHOT
-    -Dpackage=br.com.semeru
+mvn archetype:generate \
+  -DarchetypeGroupId=br.com.erudio \
+  -DarchetypeArtifactId=rest-example-mysql-archetype \
+  -DarchetypeVersion=0.0.1-SNAPSHOT \
+  -DgroupId=br.com.semeru \
+  -DartifactId=rest-mysql-from-archetype \
+  -Dversion=1.0-SNAPSHOT \
+  -Dpackage=br.com.semeru
 ```
 Maven ask if you need change version of your project and your package base as is highlighted in red in the image below. If you dont want any change just type Enter Enter. If everything is gonna be OK you should see one image similar to following. Your project was created with success ;-)
 
